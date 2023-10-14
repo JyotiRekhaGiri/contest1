@@ -1,0 +1,105 @@
+*{
+    margin: 4px;
+    padding: 4px;
+}
+
+li a{
+    text-decoration: none;
+}
+.footer-last {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .footer-last-one ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  .Header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Header ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  .Header-two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Header-two ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  .Header-two ul li img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer-links ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .footer-links ul li {
+    margin-right: 10px;
+  }
+  
+  .footer-links ul li:last-child {
+    margin-right: 0;
+  }
+
+.Product-Comparison{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    flex-direction: column;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.Product-Financing{
+    background-image: url("./img/phone4.png");
+    background-size: cover;
+}
+.three{
+    padding-left: 15rem;
+    padding-top: 20rem;
+    padding-bottom: 24rem;
+    width: 100%;
+    height: 100%;
+}
+.Product-Branding{
+    width: 100%;
+    display: flex;
+    background-color: rgb(9, 9, 28);
+}
+.fourth{
+width: 50%;
+background-color: rgb(9, 9, 28);
+align-items: center;
+justify-content: center;
+padding-left: 10rem;
+padding-top: 8rem;
+}
+.fifth{
+width: 50%;
+background-color: rgb(9, 9, 28);
+}
+  
